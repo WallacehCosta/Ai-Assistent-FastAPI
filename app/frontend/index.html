@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI FastAPI Assistant</title>
+
+    <!-- IMPORTANTE: usar /static -->
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>AI FastAPI Assistant</h1>
+        <div id="chat-box"></div>
+
+        <form id="chat-form">
+            <input 
+                type="text" 
+                id="user-input" 
+                placeholder="Type your message..." 
+                autocomplete="off"
+            >
+            <button type="submit">Send</button>
+        </form>
+    </div>
+
+    <!-- IMPORTANTE: usar /static -->
+    <script src="/static/app.js"></script>
+</body>
+</html>
