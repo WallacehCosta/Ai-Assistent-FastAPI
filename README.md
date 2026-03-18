@@ -39,7 +39,7 @@ ai-fastapi-app/
 │   ├── db/
 │   ├── schemas/
 │   ├── services/
-│   └── frontend/        # HTML, CSS, JS
+│   └── frontend/ #HTML, CSS, JS
 │
 ├── requirements.txt
 ├── README.md
