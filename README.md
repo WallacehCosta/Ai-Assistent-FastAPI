@@ -2,6 +2,8 @@
 
 Minimal full-stack project demonstrating how to integrate an AI-like assistant into a FastAPI application with persistent chat history using SQLite and a simple frontend interface.
 
+![GIF-AI](./assets/ai-assistent-gif.gif)
+
 ---
 
 ## Overview
